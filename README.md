@@ -2,6 +2,7 @@
 
 # Project Overview
 The PlanMyTrip app is currently being tested in a beta setting with the objective of enhancing user interface and functionalities through the following steps:
+
     1. Retrieving weather data including the weather description for over 150 cities across the world,
     2. Create a customer travel destinations map,
     3. Create a travel itinerary map.
