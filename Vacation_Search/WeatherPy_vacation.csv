@@ -1,0 +1,168 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+3,Nantucket,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+4,Kodiak,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+6,Souillac,MU,68.38,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+8,Ponta Do Sol,PT,71.71,broken clouds,32.6667,-17.1,Hotel do Campo
+9,Margate,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+14,Arraial Do Cabo,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+26,East London,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+30,Muros,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+39,Pokhara,NP,73.76,broken clouds,28.2333,83.9833,Butterfly Lodge
+40,Barrow,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+41,Fortuna,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+44,Lata,PT,61.21,scattered clouds,40.1629,-8.3327,Casa Maquia
+45,Gurupa,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+58,Cape Town,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+65,Port Elizabeth,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+66,Saint-Leu,RE,63.46,clear sky,-21.15,55.2833,La Caz Oceane
+77,Los Llanos De Aridane,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+79,Saint-Philippe,RE,63.46,clear sky,-21.15,55.2833,La Caz Oceane
+80,Red Bluff,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+81,Senanga,ZM,69.49,clear sky,-16.1167,23.2667,Zango lodge
+83,Chuy,UY,62.4,overcast clouds,-33.6971,-53.4616,Nuevo Hotel Plaza
+84,Praia,PT,71.71,broken clouds,32.6667,-17.1,Hotel do Campo
+96,Grand River South East,MU,68.38,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+101,Porto Novo,PT,71.71,broken clouds,32.6667,-17.1,Hotel do Campo
+102,Vila Velha,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+103,Hilo,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+111,Rio Grande,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+113,Novita,CO,74.32,overcast clouds,4.9551,-76.6053,B/ Buenos Aires Sector Las Curvitas
+117,Kathmandu,NP,73.76,broken clouds,28.2333,83.9833,Butterfly Lodge
+123,Richards Bay,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+124,Kapaa,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+126,Big Spring,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+132,Saint-Pierre,RE,64.08,broken clouds,-21.3393,55.4781,Lindsey Hôtel
+133,Laguna,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+135,Almeirim,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+136,Puerto Ayora,EC,68.56,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+141,Port Alfred,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+144,Lagoa,PT,69.28,overcast clouds,39.05,-27.9833,Casa Das Faias
+149,Sterling,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+161,Miraflores,CO,74.32,overcast clouds,4.9551,-76.6053,B/ Buenos Aires Sector Las Curvitas
+169,Bambous Virieux,MU,68.38,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+180,Ribeira Grande,PT,69.28,overcast clouds,39.05,-27.9833,Casa Das Faias
+183,Carutapera,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+185,Marawi,PH,70.65,overcast clouds,7.9986,124.2928,Derogongan Residence
+186,Ridgecrest,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+200,Virginia Beach,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+201,Hermanus,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+206,Cidreira,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+212,Kansanshi,ZM,69.49,clear sky,-16.1167,23.2667,Zango lodge
+233,Namibe,AO,60.1,few clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
+234,San Cristobal,EC,68.56,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+242,Bredasdorp,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+248,Uige,AO,60.1,few clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
+249,Muisne,EC,68.56,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+254,Maceio,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+258,Touros,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+262,Bethel,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+264,Porto Belo,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+265,Kahului,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+273,Morros,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+274,Berck,FR,61.7,light rain,50.4,1.6,Hôtel Régina & Spa
+280,Plettenberg Bay,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+287,Vao,NC,67.66,overcast clouds,-22.6667,167.4833,Hotel Kou-Bugny
+290,North Bend,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+302,Dieppe,FR,61.7,light rain,50.4,1.6,Hôtel Régina & Spa
+324,Altamira,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+328,Camacha,PT,69.28,overcast clouds,39.05,-27.9833,Casa Das Faias
+332,Makakilo City,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+335,Gusau,NG,74.44,clear sky,12.1628,6.6614,GUEST INN
+336,Borba,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+341,Armacao Dos Buzios,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+347,Salamina,CO,74.32,overcast clouds,4.9551,-76.6053,B/ Buenos Aires Sector Las Curvitas
+350,Jucas,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+353,Honiara,PT,61.21,scattered clouds,40.1629,-8.3327,Casa Maquia
+357,Torrijos,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+361,Luau,AO,60.1,few clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
+368,Varzea Da Palma,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+369,Buala,PT,61.21,scattered clouds,40.1629,-8.3327,Casa Maquia
+373,Goderich,CA,64.72,clear sky,43.7501,-81.7165,Harmony Inn
+377,Black Forest,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+383,Pacific Grove,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+384,Paracuru,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+391,Vila Franca Do Campo,PT,69.28,overcast clouds,39.05,-27.9833,Casa Das Faias
+394,Caravelas,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+397,Kruisfontein,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+401,Calvinia,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+406,Kaduqli,PH,70.65,overcast clouds,7.9986,124.2928,Derogongan Residence
+408,Zanesville,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+409,Alta Floresta,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+410,College,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+411,Brownwood,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+413,Cuorgne,IT,60.08,few clouds,45.3895,7.6499,B&B Il Grillo Bianco
+416,Inhambane,MZ,65.32,clear sky,-23.865,35.3833,Oceano
+420,Toro,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+421,Kearney,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+422,Pierre,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+424,Pauini,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+427,Saint-Pierre,RE,64.08,broken clouds,-21.3393,55.4781,Lindsey Hôtel
+432,Dumas,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+438,Palafrugell,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+439,Itarema,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+441,Waw,PH,70.65,overcast clouds,7.9986,124.2928,Derogongan Residence
+444,Kenai,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+446,Puerto Baquerizo Moreno,EC,68.56,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+449,Sitka,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+457,Japura,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+458,Kroonstad,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+462,Sao Joao Da Barra,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+465,Bonthe,CA,64.72,clear sky,43.7501,-81.7165,Harmony Inn
+470,Umzimvubu,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+473,Lannion,FR,61.7,light rain,50.4,1.6,Hôtel Régina & Spa
+478,Urucara,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+480,Tucurui,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+482,Sibiti,CG,71.82,overcast clouds,-3.6819,13.3499,"LE PAPYRUS (hôtel, bar et restaurant)"
+485,Quelimane,MZ,65.32,clear sky,-23.865,35.3833,Oceano
+490,Crotone,IT,60.08,few clouds,45.3895,7.6499,B&B Il Grillo Bianco
+495,Zachary,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+498,Kisangani,CD,67.15,overcast clouds,0.5167,25.2,Grand Ramela Hotel
+506,La Crosse,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+510,Rapid Valley,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+513,Marechal Candido Rondon,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+514,Basoko,CD,67.15,overcast clouds,0.5167,25.2,Grand Ramela Hotel
+520,Parana,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+521,Saint-Joseph,RE,63.46,clear sky,-21.15,55.2833,La Caz Oceane
+524,Wasilla,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+525,Columbus,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+528,Port Shepstone,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+529,Hayden,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+539,Kirakira,PT,61.21,scattered clouds,40.1629,-8.3327,Casa Maquia
+547,Camocim,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+550,Lugazi,UG,62.76,overcast clouds,0.3772,32.9197,Dr Kalumba Moses
+551,Winslow,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+552,Ponta Delgada,PT,69.28,overcast clouds,39.05,-27.9833,Casa Das Faias
+554,Half Moon Bay,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+556,Macapa,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+557,Gamboma,CG,71.82,overcast clouds,-3.6819,13.3499,"LE PAPYRUS (hôtel, bar et restaurant)"
+558,Redding,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+561,Simiti,CO,74.32,overcast clouds,4.9551,-76.6053,B/ Buenos Aires Sector Las Curvitas
+563,Tamandare,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+564,Grass Valley,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+574,Miracatu,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+575,Sao Felix Do Xingu,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+577,Ketchikan,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+578,Cedar City,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+581,Great Falls,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+582,Angra,PT,69.28,overcast clouds,39.05,-27.9833,Casa Das Faias
+587,Mahon,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+597,Cururupu,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+599,Saldanha,GB,61.3,overcast clouds,51.3813,1.3862,Premier Inn Margate hotel
+601,Aguas Formosas,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+604,Pombas,PT,71.71,broken clouds,32.6667,-17.1,Hotel do Campo
+605,Santa Eulalia Del Rio,ES,62.24,few clouds,42.7762,-9.0603,Apartment Av. Castelao
+609,Imbituba,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+621,Boa Vista,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+623,Cabedelo,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+624,Salinas,EC,68.56,scattered clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+628,Pavullo Nel Frignano,IT,60.08,few clouds,45.3895,7.6499,B&B Il Grillo Bianco
+630,Sena Madureira,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+635,Mahebourg,MU,68.38,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+636,Toccoa,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+644,Carire,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+653,Amontada,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+656,Camapua,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+659,Natchez,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+669,Manacapuru,BR,71.8,overcast clouds,-22.9661,-42.0278,Pousada Porto Praia
+670,Homer,US,64.09,clear sky,41.2835,-70.0995,Jared Coffin House
+696,Quatre Cocos,MU,68.38,few clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
